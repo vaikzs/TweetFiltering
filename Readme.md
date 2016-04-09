@@ -1,7 +1,7 @@
-SYNOPSIS
+##SYNOPSIS
 Active Learning Technique used in Entity disambiguation for classifying tweets from twitter that are relevant to eDrugs Trends.
 
-SPECIFICATIONS
+##SPECIFICATIONS
 HTML
 jQuery
 Bootstrap Framework
